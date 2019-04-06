@@ -15,5 +15,8 @@
 	"bugs": {
 		"url": "https://github.com/michaelpwest/new-york-city-subway-api/issues"
 	},
-	"homepage": "https://github.com/michaelpwest/new-york-city-subway-api#readme"
+	"homepage": "https://github.com/michaelpwest/new-york-city-subway-api#readme",
+	"devDependencies": {
+		"csvtojson": "^2.0.8"
+	}
 }
